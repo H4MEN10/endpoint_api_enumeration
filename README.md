@@ -1,6 +1,6 @@
 ## Description
 
-This is a simple Python script to check api endpoints by appending words from a file to a base URL.
+This is a simple Python script to check api endpoints by checking a wordlist.
 
 ## Installation
 
